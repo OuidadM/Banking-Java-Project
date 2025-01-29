@@ -143,4 +143,30 @@ The **bulk transfer** feature allows users to perform **up to 5000 transfers** i
 
 - **Set an execution date** for each transfer.  
 - **Choose the appropriate payment method**.  
+  # Login Page:
+  ![Login page](https://github.com/OuidadM/Banking-Java-Project/blob/25695959d4827beb3783207872f621be012c497b/login.jpg)
 
+  # Sign up page:
+  ![sign up 1](https://github.com/OuidadM/Banking-Java-Project/blob/25695959d4827beb3783207872f621be012c497b/signup_1.jpg)
+  ![sign up 2](https://github.com/OuidadM/Banking-Java-Project/blob/25695959d4827beb3783207872f621be012c497b/signup_2.jpg)
+
+  # Home page:
+  ![Home page](https://github.com/OuidadM/Banking-Java-Project/blob/25695959d4827beb3783207872f621be012c497b/home.jpg)
+
+  # Add account:
+  ![add account page](https://github.com/OuidadM/Banking-Java-Project/blob/25695959d4827beb3783207872f621be012c497b/add_account.jpg)
+  
+  # Add beneficiary:
+  ![add beneficiary page](https://github.com/OuidadM/Banking-Java-Project/blob/25695959d4827beb3783207872f621be012c497b/Add_beneficiary.jpg)
+
+  # Search beneficiary:
+  ![search beneficiary page](https://github.com/OuidadM/Banking-Java-Project/blob/25695959d4827beb3783207872f621be012c497b/search_beneficiary.jpg)
+  
+  # Single transfer:
+  ![single transfer page](https://github.com/OuidadM/Banking-Java-Project/blob/c709b3c7ae8b12e4c808d9221064f6b77daaca87/virement_simple.jpg)
+
+  # Multiple transfer:
+  ![first transfer](https://github.com/OuidadM/Banking-Java-Project/blob/c709b3c7ae8b12e4c808d9221064f6b77daaca87/virement_multiple_1.jpg)
+  ![second transfer](https://github.com/OuidadM/Banking-Java-Project/blob/5688a2155de90434f7aeaff0e496eb9658df7dc3/virement_multiple_2.jpg)
+  ![third transfer](https://github.com/OuidadM/Banking-Java-Project/blob/5688a2155de90434f7aeaff0e496eb9658df7dc3/virement_multiple_3.jpg)
+  
